@@ -45,7 +45,7 @@ public class Principal {
            case 2: conta.BuscarProducto();
                 break;
            
-           case 3: System.out.println(" X ");
+           case 3: conta.Eliminar_Producto();
                 break;      
                    
            case 4: conta.Mostrar_Inventario();
